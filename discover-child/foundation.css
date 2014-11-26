@@ -1,0 +1,9 @@
+/*
+Theme Name:     discovermh
+Description:    Child theme for the discover theme
+Author:         M Hud
+Template:       discover
+Version:        0.1.0
+*/
+
+@import url("../discover/foundation.css");
